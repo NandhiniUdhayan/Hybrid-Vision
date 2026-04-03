@@ -23,6 +23,3 @@ The proposed architecture consists of three main components:
 
 3. **Fusion Module**
    - Attention-based mechanism to dynamically combine both modalities
-
-
-## 📂 Project Structure
